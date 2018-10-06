@@ -68,6 +68,40 @@ ___This is you guess___
 
 ~~This is `<delete>`~~
 
+This is `<ul>`
+
+- first of all
+- secondly
+- thirdly
+- last but not least
+
+This is another `<ul>`
+
+* ZKW is cute
+* ZKW is cute
+
+        - ZKW is is cute
+        - ZKW is is cute
+* ZKW is cute
+
+        * ZKW is is CUTE
+        * ZKW is is CUTE
+                * ZKW is is is CUTE
+                        * ZKW is is is is CUTE
+                                * 朱可玮你真是够了啊！！！
+        * ZKW is is CUTE
+* The end
+This is &lt;ol&gt;:
+
+1. ZKW + 1 = cute + 1
+1. ZKW + 1 - 1 = cute + 1 - 1
+1. ZKW = cute
+1. ZKW + x = cute + x
+
+This is a [link](https://cute-shiki.github.io/).
+
+This is an ![image](https://avatars.githubusercontent.com/u/43901194) (and it is your avatar).
+
 `This is <code>monospace</code>`
 
 This is <code>monospace</code> in `HTML`
@@ -104,11 +138,41 @@ int main(int argc, char **argv)
 git add --all
 git commit --allow-empty-message --message ""
 git push
+# PLEASE NEVER EXECUTE THE COMMANDS BELOW
+# OR ANYTHING THAT LOOKS LIKE THEM
+
+# rm -rf .git
 # sudo rm -rf --no-preserve-root /
 # sudo rm -rf /usr /lib/some-lib-file
 # sudo dd if=/dev/urandom of=/dev/sda
 # sudo chmod -R 000 /
 # sudo setenforce 1
+uname -a
+```
+
+```cmd
+REM PLEASE NEVER EXECUTE THE COMMANDS BELOW
+REM OR ANYTHING THAT LOOKS LIKE THEM
+
+REM FORMAT %SystemDrive% /X
+REM RMDIR /S /Q .git
+REM RMDIR /S /Q %WINDIR%
+REM RMDIR /S /Q %SystemRoot%
+REM BCDEDIT /delete {bootmgr} /f
+REM BCDEDIT /delete {current} /f
+REM BCDEDIT /delete {default} /f
+VER
+WINVER
 ```
 
 好啦好啦可爱的小朱可玮不要管那么多啦好好用GitHub Desktop吧。乖乖的哦。
+
+1. ssh-add
+1. git add
+1. git commit
+1. git pull
+1. git merge
+1. ... (over and over again)
+1. git push
+1. # rm -rf .git
+1. # git init .
