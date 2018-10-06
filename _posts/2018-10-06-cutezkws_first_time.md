@@ -7,13 +7,19 @@ categories: cute
 可爱的小朱可玮在线总结Markdown知识点
 ===
 
+<style type="text/css">
+p {
+        text-indent: 2em;
+}
+</style>
+
 ```html
 <style type="text/css">
 p {
         text-indent: 2em;
 }
 </style>
-```html
+```
 
 ```css
 p {
