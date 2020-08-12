@@ -52,9 +52,9 @@
 -----------------------
 差点忘了还有网页和图片
 那么，就[这个](https://www.bilibili.com/video/BV1Rp4y1S7j5 "你知道得太多了")吧
-还有![图片](pic/2233.jpg "33是我的")
+还有![图片](https://github.com/cute-shiki/cute-shiki.github.io/blob/master/2233.jpg "33是我的")
 再试一下[网址][wangzhi]和[图片][tupian]的赋值
 
 [wangzhi]:https://www.bilibili.com/video/BV1Rp4y1S7j5	"这是赋值的哦"
-[tupian]:pic/2233.jpg	"这也是"
+[tupian]:https://github.com/cute-shiki/cute-shiki.github.io/blob/master/2233.jpg	"这也是"
 
